@@ -1,5 +1,6 @@
 .footer {
-  padding: 60px 0 25px;
+  padding: 60px 0 10px;
+  width: 100%;
   background: #111;
   color: white;
 }
@@ -12,8 +13,8 @@
 
 .brand h2 {
   font-size: 2rem;
-  margin-bottom: 15px;
   letter-spacing: 1px;
+  margin: 0;
 }
 
 .brand p {
@@ -25,6 +26,7 @@
 .contact h3 {
   font-size: 0.9rem;
   margin-bottom: 15px;
+  margin-top: 8px;
   font-weight: 500;
 }
 
