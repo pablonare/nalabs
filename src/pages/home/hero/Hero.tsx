@@ -8,7 +8,7 @@ export default function Hero() {
       <div className={styles.content}>
       <div className={styles.typing}>
         <h1 className={styles.title}>
-          LET US CREATE YOUR WEBSITE
+          BUILD YOUR WEBSITE
         </h1>
       </div>
     </div>

@@ -9,7 +9,7 @@ export default function RecentWork() {
      <Container>    
 
         <div className={styles.heading}>
-            <h2>OUR RECENT WORK</h2>
+            <h2>RECENT WORK</h2>
         </div>
 
         <article className={styles.project}>
