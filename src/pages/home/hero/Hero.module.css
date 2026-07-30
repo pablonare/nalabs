@@ -1,0 +1,61 @@
+.hero {
+  position: relative;
+  min-height: calc(100vh - 90px);
+  overflow: hidden;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(20, 61, 43, 0.75);
+  z-index: 1;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  text-align: center;
+  justify-content: center;
+
+  transform: translateY(150px);
+}
+
+.typing {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: -0.05em;
+
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid white;
+
+  animation:
+    typing 3s steps(27) forwards,
+    cursor 0.7s infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 27ch;
+  }
+}
+
+@keyframes cursor {
+  50% {
+    border-color: transparent;
+  }
+}
