@@ -1,18 +1,7 @@
 .hero {
   position: relative;
-  min-height: calc(100vh - 90px);
-  overflow: hidden;
-}
-
-.image {
-  object-fit: cover;
-}
-
-.overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(20, 61, 43, 0.75);
-  z-index: 1;
+  height: fit-content;
+  padding-block: 9rem;
 }
 
 .content {
@@ -21,8 +10,8 @@
   color: white;
   text-align: center;
   justify-content: center;
-
-  transform: translateY(150px);
+  width:100%;
+  
 }
 
 .typing {
@@ -31,9 +20,11 @@
 }
 
 .title {
+  display: inline-block;
   font-size: 4rem;
   font-weight: 700;
   letter-spacing: -0.05em;
+  margin: 0;
 
   white-space: nowrap;
   overflow: hidden;

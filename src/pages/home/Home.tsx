@@ -1,7 +1,7 @@
 import Header from "@/components/layout/header/Header";
 import Hero from "./hero/Hero";
 import Intro from "./intro/Intro";
-
+import RecentWork from "./recentwork/RecentWork";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <Header />
       <Hero />
       <Intro />
-      {/* <RecentWork /> */}
+      <RecentWork />
     </>
   );
 }
