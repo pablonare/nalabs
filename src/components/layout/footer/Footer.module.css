@@ -1,0 +1,51 @@
+.footer {
+  padding: 60px 0 25px;
+  background: #111;
+  color: white;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.brand h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.brand p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.contact h3 {
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.contact a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.contact a:hover {
+  color: white;
+}
+
+.bottom {
+  margin-top: 45px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  text-align: center;
+}
+
+.bottom p {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+}
