@@ -57,6 +57,11 @@ export default function ConsultationForm() {
               <label htmlFor="phone">{t("phone")} *</label>
               <input id="phone" name="phone" type="tel" required />
             </div>
+            
+            <div className={styles.field}>
+              <label htmlFor="url">{t("url")} *</label>
+              <input id="url" name="url" type="text" required />
+            </div>
 
             <div className={styles.field}>
               <label htmlFor="company">{t("company")}</label>

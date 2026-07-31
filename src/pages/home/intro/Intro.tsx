@@ -21,7 +21,9 @@ export default function Intro() {
           <article className={styles.card}>
             <h2>{t("card2.title")}</h2>
             <p>{t("card2.description")}</p>
-            <button>{t("card2.cta")}</button>
+            <Link href="/services" className={styles.cardAction}>
+              {t("card2.cta")}
+            </Link>
           </article>
 
           <article className={styles.card}>

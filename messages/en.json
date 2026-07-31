@@ -24,7 +24,7 @@
   "recentWork": {
     "heading": "RECENT WORK",
     "projectTitle": "Antik Surf Club",
-    "projectDescription": "A modern website designed for a surf school, focused on creating a professional online presence and improving customer experience.",
+    "projectDescription": "A modern website designed for a surf club, focused on creating a professional online presence and improving customer experience.",
     "cta": "View project"
   },
   "aboutUs": {
@@ -61,8 +61,8 @@
     "name": "Name",
     "email": "Email",
     "phone": "Phone Number",
+    "url": "Website URL",
     "company": "Company (Optional)",
-    "projectType": "Project Type",
     "description": "Project Description",
     "message": "Tell us about your business, your project, and any ideas you'd like to include...",
     "submit": "Submit",
@@ -70,6 +70,25 @@
     "sending": "Sending...",
     "success": "Thanks! We've received your message and will be in touch soon.",
     "error": "Something went wrong. Please try again or email us directly."
+  },
+
+  "Content" : {
+    "heading": "SERVICES",
+
+    "webDesign": "WEB DESIGN",
+    "paragraph1": "Modern, user-focused interfaces designed to engage your audience and strengthen your brand.",
+
+    "webDevelopment": "WEB DEVELOPMENT",
+    "paragraph2": "Fast, scalable websites built with modern technologies for performance and reliability.",
+
+    "seo": "SEO OPTIMIZATION",
+    "paragraph3": "Technical SEO and best practices to improve visibility and help customers find your business.",
+
+    "businessSolution": "BUSINESS SOLUTIONS",
+    "paragraph4": "Startups, local businesses, restaurants, caterings, surf schools, portfolios and growing companies.",
+
+    "buttonText": "Start your project"
   }
+  
 
 }

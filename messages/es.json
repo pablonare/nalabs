@@ -22,7 +22,7 @@
   "recentWork": {
     "heading": "TRABAJOS RECIENTES",
     "projectTitle": "Antik Surf Club",
-    "projectDescription": "Un sitio web moderno diseñado para una escuela de surf, enfocado en crear una presencia profesional en línea y mejorar la experiencia del cliente.",
+    "projectDescription": "Un sitio web moderno diseñado para un club de surf, enfocado en crear una presencia profesional en línea y mejorar la experiencia del cliente.",
     "cta": "Ver proyecto"
   },
   "aboutUs": {
@@ -51,5 +51,42 @@
     "sending": "Enviando...",
     "success": "¡Gracias! Hemos recibido tu mensaje y nos pondremos en contacto pronto.",
     "error": "Algo salió mal. Por favor, inténtalo de nuevo o envíanos un correo directamente."
+  },
+
+  "ConsultationForm": {
+    "heading": "CONSULTA GRATUITA",
+    "intro" :  "Obtén un análisis gratuito de tu sitio web y descubre oportunidades para mejorar tu presencia en línea.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Número de teléfono",
+    "url": "URL del sitio web",
+    "company": "Empresa (Opcional)",
+    "description": "Descripción del proyecto",
+    "message": "Cuéntanos sobre tu negocio, tu proyecto y cualquier idea que quieras incluir...",
+    "submit": "Enviar",
+
+    "sending": "Enviando...",
+    "success": "¡Gracias! Hemos recibido tu mensaje y nos pondremos en contacto pronto.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo o envíanos un correo directamente." 
+  },
+
+  "Content": {
+  "heading": "SERVICIOS",
+
+  "webDesign": "DISEÑO WEB",
+  "paragraph1": "Interfaces modernas y centradas en el usuario, diseñadas para captar la atención de tu audiencia y fortalecer tu marca.",
+
+  "webDevelopment": "DESARROLLO WEB",
+  "paragraph2": "Sitios web rápidos y escalables, desarrollados con tecnologías modernas para ofrecer el máximo rendimiento y fiabilidad.",
+
+  "seo": "OPTIMIZACIÓN SEO",
+  "paragraph3": "SEO técnico y buenas prácticas para mejorar tu visibilidad y ayudar a que más clientes encuentren tu negocio.",
+
+  "businessSolution": "SOLUCIONES PARA NEGOCIOS",
+  "paragraph4": "Startups, negocios locales, restaurantes, empresas de catering, escuelas de surf, portfolios y empresas en crecimiento.",
+
+  "buttonText": "Comienza tu proyecto"
+
   }
 }
+

@@ -1,7 +1,8 @@
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 import Container from "@/components/ui/container/Container";
 import styles from "./RecentWork.module.css";
-import Rentals from "@/assets/images/home/rentals.webp";
+import AntikWeb from "@/assets/images/home/antikweb.webp";
 import Image from "next/image";
 
 export default function RecentWork() {
@@ -15,14 +16,22 @@ export default function RecentWork() {
         </div>
 
         <article className={styles.project}>
-          <div className={styles.media}>
-            <Image src={Rentals} alt="NALABS" fill className={styles.image} />
-          </div>
+
+         <Link href="https://antiksurf.com" className={styles.media}>
+          <Image
+            src={AntikWeb}
+            alt="Antik website"
+            fill
+            className={styles.image}
+          />
+         </Link>
 
           <div className={styles.content}>
             <h3>{t("projectTitle")}</h3>
             <p>{t("projectDescription")}</p>
-            <button>{t("cta")}</button>
+            <Link href="https://antiksurf.com" className={styles.button}>
+              {t("cta")}
+            </Link>
           </div>
         </article>
       </Container>

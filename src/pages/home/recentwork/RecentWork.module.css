@@ -32,9 +32,13 @@
   overflow: hidden;
 }
 
-
 .image {
   object-fit: cover;
+}
+
+.media:hover .image {
+  transform: scale(1.05);
+  filter: brightness(0.8);
 }
 
 
@@ -53,11 +57,28 @@
 }
 
 
-.content button {
-  padding: 1rem 2rem;
+.button {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1.5rem 1.8rem;
+
   border-radius: 999px;
   border: none;
+
+  background: white;
+  color: #143d2b;
+  text-decoration: none;
+
+  font-weight: 600;
   cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgba(240, 255, 255, 0.576);
+  color: var(--color-primary);
 }
 
 @media (max-width: 900px) {
