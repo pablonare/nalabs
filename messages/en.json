@@ -1,4 +1,8 @@
 {
+  "Header": {
+    "nav": "Home"
+  },
+
   "hero": {
     "title": "BUILD YOUR WEBSITE"
   },
