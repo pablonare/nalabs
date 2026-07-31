@@ -1,3 +1,11 @@
 :root {
-  --spacegrostesk: "Space Grotesk", sans-serif;
+  /* Fonts */
+  --font-primary: "Space Grotesk", sans-serif;
+
+  /* Colors */
+  --color-primary: #0f172a;
+  --color-border: #475569;
+
+  /* Transition */
+  --transition: 0.25s ease;
 }

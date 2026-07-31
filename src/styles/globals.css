@@ -3,16 +3,18 @@ body {
   width: 100%;
   overflow-x: hidden;
   
-  font-family: var(--spacegrostesk);
+  font-family: var(--font-primary);
   margin: 0;
   padding: 0;
 
   background:
+
   radial-gradient(
     circle at top left,
-    rgba(50, 120, 80, 0.35),
+    rgba(50, 120, 80, 0.85),
     transparent 40%
   ),
+
   linear-gradient(
     180deg,
     #102f22,
