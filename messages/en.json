@@ -53,5 +53,23 @@
     "sending": "Sending...",
     "success": "Thanks! We've received your project and will be in touch soon.",
     "error": "Something went wrong. Please try again or email us directly."
+  },
+
+  "ConsultationForm": {
+    "heading": "FREE WEBSITE CONSULTATION",
+    "intro" :  "Get a free analysis of your website and discover opportunities to improve your online presence.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "company": "Company (Optional)",
+    "projectType": "Project Type",
+    "description": "Project Description",
+    "message": "Tell us about your business, your project, and any ideas you'd like to include...",
+    "submit": "Submit",
+
+    "sending": "Sending...",
+    "success": "Thanks! We've received your message and will be in touch soon.",
+    "error": "Something went wrong. Please try again or email us directly."
   }
+
 }
