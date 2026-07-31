@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "BUILD YOUR WEBSITE"
+  },
+
+  "intro": {
+    "card1": {
+      "title": "Create Your Website",
+      "description": "Whether you're launching a new business or redesigning an existing one, we'll create a modern website designed around your goals.",
+      "cta": "Get Started"
+    },
+    "card2": {
+      "title": "OUR SERVICES",
+      "description": "Web design, e-commerce solutions and digital experiences created to help your business grow online.",
+      "cta": "Explore services"
+    },
+    "card3": {
+      "title": "FREE WEBSITE CONSULTATION",
+      "description": "Get a free analysis of your website and discover opportunities to improve your online presence.",
+      "cta": "Book consultation"
+    }
+  },
+  
+  "recentWork": {
+    "heading": "RECENT WORK",
+    "projectTitle": "Antik Surf Club",
+    "projectDescription": "A modern website designed for a surf school, focused on creating a professional online presence and improving customer experience.",
+    "cta": "View project"
+  },
+  "aboutUs": {
+    "heading": "About Us",
+    "paragraph1": "Founded by an industrial engineer with a passion for technology and digital innovation, Nalabs creates modern websites designed to help businesses grow online.",
+    "paragraph2": "We combine engineering, design and development to build fast, functional and unique digital experiences."
+  },
+  "footer": {
+    "tagline": "Digital solutions<br></br>for growing<br></br>businesses.",
+    "contactHeading": "CONTACT",
+    "copyright": "\u00a9 2026 Nalabs. All rights reserved."
+  },
+
+  "formulary": {
+    "heading": "START YOUR PROJECT",
+    "intro" :  "Tell us about your project, and we'll get back to you with a personalized proposal.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "company": "Company (Optional)",
+    "projectType": "Project Type",
+    "description": "Project Description",
+    "message": "Tell us about your business, your project, and any ideas you'd like to include...",
+    "submit": "Submit",
+
+    "sending": "Sending...",
+    "success": "Thanks! We've received your project and will be in touch soon.",
+    "error": "Something went wrong. Please try again or email us directly."
+  }
+}

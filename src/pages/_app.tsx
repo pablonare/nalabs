@@ -1,8 +1,9 @@
 import "@/styles/globals.css";
-import "@/styles/variables.css";
 
 import { Space_Grotesk } from "next/font/google";
 import type { AppProps } from "next/app";
+import { useRouter } from "next/router";
+import { NextIntlClientProvider } from "next-intl";
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -10,9 +11,17 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export default function App({ Component, pageProps }: AppProps) {
+  const router = useRouter();
+
   return (
-    <div className={spaceGrotesk.className}>
-      <Component {...pageProps} />
-    </div>
+    <NextIntlClientProvider
+      locale={router.locale}
+      messages={pageProps.messages}
+      timeZone="UTC"
+    >
+      <div className={spaceGrotesk.className}>
+        <Component {...pageProps} />
+      </div>
+    </NextIntlClientProvider>
   );
 }

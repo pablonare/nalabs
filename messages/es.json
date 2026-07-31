@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "title": "CONSTRUYE TU SITIO WEB"
+  },
+  "intro": {
+    "card1": {
+      "title": "Crea tu sitio web",
+      "description": "Ya sea que estés lanzando un nuevo negocio o rediseñando uno existente, crearemos un sitio web moderno diseñado según tus objetivos.",
+      "cta": "Comenzar"
+    },
+    "card2": {
+      "title": "NUESTROS SERVICIOS",
+      "description": "Diseño web, soluciones de e-commerce y experiencias digitales creadas para ayudar a tu negocio a crecer en línea.",
+      "cta": "Explorar servicios"
+    },
+    "card3": {
+      "title": "CONSULTA GRATUITA",
+      "description": "Obtén un análisis gratuito de tu sitio web y descubre oportunidades para mejorar tu presencia en línea.",
+      "cta": "Reservar consulta"
+    }
+  },
+  "recentWork": {
+    "heading": "TRABAJOS RECIENTES",
+    "projectTitle": "Antik Surf Club",
+    "projectDescription": "Un sitio web moderno diseñado para una escuela de surf, enfocado en crear una presencia profesional en línea y mejorar la experiencia del cliente.",
+    "cta": "Ver proyecto"
+  },
+  "aboutUs": {
+    "heading": "Sobre nosotros",
+    "paragraph1": "Fundada por un ingeniero industrial apasionado por la tecnología y la innovación digital, Nalabs crea sitios web modernos que ayudan a las empresas a crecer en línea.",
+    "paragraph2": "Combinamos ingeniería, diseño y desarrollo para construir experiencias digitales rápidas, funcionales y únicas."
+  },
+  "footer": {
+    "tagline": "Soluciones digitales<br></br>para negocios<br></br>en crecimiento.",
+    "contactHeading": "CONTACTO",
+    "copyright": "\u00a9 2026 Nalabs. Todos los derechos reservados."
+  },
+
+  "formulary": {
+    "heading": "EMPIEZA TU PROYECTO",
+    "intro" :  "Cuéntanos sobre tu proyecto y nos pondremos en contacto contigo con una propuesta personalizada.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phone": "Número de teléfono",
+    "company": "Empresa (Opcional)",
+    "projectType": "Tipo de proyecto",
+    "description": "Descripción del proyecto",
+    "message": "Cuéntanos sobre tu negocio, tu proyecto y cualquier idea que quieras incluir...",
+    "submit": "Enviar",
+
+    "sending": "Enviando...",
+    "success": "¡Gracias! Hemos recibido tu mensaje y nos pondremos en contacto pronto.",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo o envíanos un correo directamente."
+  }
+}

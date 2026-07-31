@@ -107,6 +107,16 @@
   transform: translateY(-2px);
 }
 
+.success {
+  color: #16a34a;
+  margin-top: 12px;
+}
+
+.errorMessage {
+  color: #dc2626;
+  margin-top: 12px;
+}
+
 @media (max-width: 768px) {
   .section {
     padding: 3rem 0;

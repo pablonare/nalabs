@@ -1,25 +1,19 @@
+import { useTranslations } from "next-intl";
 import Container from "@/components/ui/container/Container";
 import styles from "./about-us.module.css";
 
 export default function AboutUs() {
+  const t = useTranslations("aboutUs");
+
   return (
     <section className={styles.about}>
-    <Container> 
+      <Container>
         <div className={styles.container}>
-            <h2>About Us</h2>
-
-            <p>
-            Founded by an industrial engineer with a passion for technology and
-            digital innovation, Nalabs creates modern websites designed to help
-            businesses grow online.
-            </p>
-
-            <p>
-            We combine engineering, design and development to build fast,
-            functional and unique digital experiences.
-            </p>
+          <h2>{t("heading")}</h2>
+          <p>{t("paragraph1")}</p>
+          <p>{t("paragraph2")}</p>
         </div>
-    </Container>
+      </Container>
     </section>
   );
 }

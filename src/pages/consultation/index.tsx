@@ -1,8 +1,8 @@
 import { GetStaticProps } from "next";
-import GetStarted from "./GetStarted";
+import ConsultationPage from "./Consultation";
 
-export default function GetStartedPage() {
-  return <GetStarted />;
+export default function Consultation() {
+  return <ConsultationPage />;
 }
 
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
@@ -12,4 +12,3 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     },
   };
 };
-
