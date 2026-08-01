@@ -16,7 +16,7 @@ export default function Footer() {
 
           <div className={styles.contact}>
             <h3>{t("contactHeading")}</h3>
-            <a href="mailto:hello@nalabs.com">hello@nalabs.com</a>
+            <a href="mailto:hello@nalabsolutions.com">hello@nalabsolutions.com</a>
           </div>
         </div>
 
