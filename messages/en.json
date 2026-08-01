@@ -1,11 +1,15 @@
 {
+  "Header": {
+    "nav": "Home"
+  },
+
   "hero": {
     "title": "BUILD YOUR WEBSITE"
   },
 
   "intro": {
     "card1": {
-      "title": "CREATE YOUR WEBSITE",
+      "title": "Create Your Website",
       "description": "Whether you're launching a new business or redesigning an existing one, we'll create a modern website designed around your goals.",
       "cta": "Get Started"
     },

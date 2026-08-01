@@ -1,10 +1,14 @@
 {
+  "Header": {
+    "nav": "Inicio"
+  },
+
   "hero": {
     "title": "CONSTRUYE TU SITIO WEB"
   },
   "intro": {
     "card1": {
-      "title": "CREA TU SITIO WEB",
+      "title": "Crea tu sitio web",
       "description": "Ya sea que estés lanzando un nuevo negocio o rediseñando uno existente, crearemos un sitio web moderno diseñado según tus objetivos.",
       "cta": "Comenzar"
     },
