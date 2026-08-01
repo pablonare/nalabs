@@ -1,5 +1,5 @@
 import { GetStaticProps } from "next";
-import ConsultationPage from "./Consultation";
+import ConsultationPage from "./consultation";
 
 export default function Consultation() {
   return <ConsultationPage />;

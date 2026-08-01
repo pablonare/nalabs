@@ -1,5 +1,5 @@
 import { GetStaticProps } from "next";
-import Home from "./home/Home";
+import Home from "./home/home";
 
 export default function Index() {
   return <Home />;

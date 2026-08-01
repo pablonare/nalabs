@@ -4,7 +4,7 @@ import styles from "./Brand.module.css";
 function Brand() {
   return (
     <Link href="/" className={styles.brand}>
-      NALABS
+      NALAB
     </Link>
   );
 }

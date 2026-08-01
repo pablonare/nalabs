@@ -1,5 +1,5 @@
 import { GetStaticProps } from "next";
-import ServicesPage from "./Services";
+import ServicesPage from "./services";
 
 export default function Services() {
   return <ServicesPage />;

@@ -1,4 +1,5 @@
 import "@/styles/globals.css";
+import "@/styles/variables.css";
 
 import { Space_Grotesk } from "next/font/google";
 import type { AppProps } from "next/app";

@@ -1,5 +1,5 @@
 import { GetStaticProps } from "next";
-import GetStarted from "./GetStarted";
+import GetStarted from "./getstarted";
 
 export default function GetStartedPage() {
   return <GetStarted />;
