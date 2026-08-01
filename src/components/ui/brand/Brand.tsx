@@ -4,7 +4,8 @@ import styles from "./Brand.module.css";
 function Brand() {
   return (
     <Link href="/" className={styles.brand}>
-      NALABS
+      <span className={styles.nalab}>NALAB</span>
+      <span className={styles.solutions}>SOLUTIONS</span>
     </Link>
   );
 }
