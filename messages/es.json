@@ -4,12 +4,12 @@
   },
 
   "hero": {
-    "title": "CONSTRUYE TU SITIO WEB"
+    "title": "BUILD YOUR WEBSITE"
   },
   "intro": {
     "card1": {
-      "title": "CREA TU SITIO WEB",
-      "description": "Ya sea que estés lanzando un nuevo negocio o rediseñando uno existente, crearemos un sitio web moderno diseñado según tus objetivos.",
+      "title": "CREA TU PAGINA WEB",
+      "description": "Ya sea que estés lanzando un nuevo negocio o rediseñando uno existente, crearemos una página web moderna diseñada según tus objetivos.",
       "cta": "Comenzar"
     },
     "card2": {
@@ -19,19 +19,19 @@
     },
     "card3": {
       "title": "CONSULTA GRATUITA",
-      "description": "Obtén un análisis gratuito de tu sitio web y descubre oportunidades para mejorar tu presencia en línea.",
+      "description": "Obtén un análisis gratuito de tu página web y descubre oportunidades para mejorar tu presencia en línea.",
       "cta": "Reservar consulta"
     }
   },
   "recentWork": {
     "heading": "TRABAJOS RECIENTES",
     "projectTitle": "Antik Surf Club",
-    "projectDescription": "Un sitio web moderno diseñado para un club de surf, enfocado en crear una presencia profesional en línea y mejorar la experiencia del cliente.",
+    "projectDescription": "Una página web moderna diseñada para un club de surf, enfocado en crear una presencia profesional en línea y mejorar la experiencia del cliente.",
     "cta": "Ver proyecto"
   },
   "aboutUs": {
     "heading": "SOBRE NOSOTROS",
-    "paragraph1": "Fundada por un ingeniero industrial apasionado por la tecnología y la innovación digital, Nalabs crea sitios web modernos que ayudan a las empresas a crecer en línea.",
+    "paragraph1": "Fundada por un ingeniero industrial apasionado por la tecnología y la innovación digital, Nalabs crea páginas web modernas que ayudan a las empresas a crecer en línea.",
     "paragraph2": "Combinamos ingeniería, diseño y desarrollo para construir experiencias digitales rápidas, funcionales y únicas."
   },
   "footer": {
@@ -59,11 +59,11 @@
 
   "ConsultationForm": {
     "heading": "CONSULTA GRATUITA",
-    "intro" :  "Obtén un análisis gratuito de tu sitio web y descubre oportunidades para mejorar tu presencia en línea.",
+    "intro" :  "Obtén un análisis gratuito de tu página web y descubre oportunidades para mejorar tu presencia en línea.",
     "name": "Nombre",
     "email": "Correo electrónico",
     "phone": "Número de teléfono",
-    "url": "URL del sitio web",
+    "url": "URL de la página web",
     "company": "Empresa (Opcional)",
     "description": "Descripción del proyecto",
     "message": "Cuéntanos sobre tu negocio, tu proyecto y cualquier idea que quieras incluir...",
