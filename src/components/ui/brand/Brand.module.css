@@ -1,7 +1,22 @@
 .brand {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-decoration: none;
+  color: white;
+  line-height: 1;
+}
+
+.nalab {
   font-size: 2.5rem;
   font-weight: 700;
   letter-spacing: -0.06em;
-  color: white;
-  text-decoration: none;
+}
+
+.solutions {
+  margin-top: 0.15rem;
+  font-size: 0.6rem;
+  font-weight: 500;
+  letter-spacing: 0.80em; /* Ajusta hasta que ocupe el mismo ancho */
+  padding-left: 0.19em;
 }
