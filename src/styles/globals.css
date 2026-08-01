@@ -7,9 +7,9 @@ body {
   margin: 0;
   padding: 0;
 
-  background:
+  background: #102f22;
 
-  radial-gradient(
+  /* radial-gradient(
     circle at top left,
     rgba(50, 120, 80, 1),
     transparent 40%
@@ -19,6 +19,6 @@ body {
     180deg,
     #102f22,
     #07150f
-  );
+  ); */
   
 }
