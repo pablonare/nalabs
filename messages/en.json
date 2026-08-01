@@ -9,7 +9,7 @@
 
   "intro": {
     "card1": {
-      "title": "Create Your Website",
+      "title": "CREATE YOUR WEBSITE",
       "description": "Whether you're launching a new business or redesigning an existing one, we'll create a modern website designed around your goals.",
       "cta": "Get Started"
     },
@@ -32,7 +32,7 @@
     "cta": "View project"
   },
   "aboutUs": {
-    "heading": "About Us",
+    "heading": "ABOUT US",
     "paragraph1": "Founded by an industrial engineer with a passion for technology and digital innovation, Nalabs creates modern websites designed to help businesses grow online.",
     "paragraph2": "We combine engineering, design and development to build fast, functional and unique digital experiences."
   },
