@@ -3,4 +3,5 @@ module.exports = {
   siteUrl: "https://nalabsolutions.com",
   generateRobotsTxt: true,
   sitemapSize: 5000,
+  generateIndexSitemap: false,
 };
